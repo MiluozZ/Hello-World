@@ -1,5 +1,5 @@
 # Hello-World
 just something
 
-hi humen
+hi people
 here are Miluo 
